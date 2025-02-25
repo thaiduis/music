@@ -1,8 +1,4 @@
-{
-  "album": {
-    "title": "Hoàng Dũng Hits",
-    "image": "https://avatar-ex-swe.nixcdn.com/playlist/2023/05/24/d/2/b/4/1684901770800_500.jpg",
-    "songs": [
+[
       {
         "title": "Nàng thơ",
         "url": "https://raw.githubusercontent.com/thaiduis/music/main/NangTho-HoangDung-6413381.mp3"
@@ -23,6 +19,4 @@
         "title": "Chúng ta còn ở đó không",
         "url": "https://raw.githubusercontent.com/thaiduis/music/main/ChungTaConODoKhongTet2025MovieboTuBaoThuOriginalSoundtrack-Orange-35172463.mp3"
       }
-    ]
-  }
-}
+]
