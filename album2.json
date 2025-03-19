@@ -35,5 +35,17 @@
     "url": "https://raw.githubusercontent.com/thaiduis/music/main/Khoalibiet.mp4",
     "image": "https://i.ytimg.com/vi/wEPX3V5T63M/maxresdefault.jpg",
     "artist": "Anh Tú"
+  },
+  {
+    "title": "Hoàng Hôn Nhớ",
+    "url": "https://raw.githubusercontent.com/thaiduis/music/main/HoangHonNhow.mp4",
+    "image": "https://i.ytimg.com/vi/Gwe_9FqJVTQ/maxresdefault.jpg",
+    "artist": "Anh Tú"
+  },
+  {
+    "title": "Xuân Thì",
+    "url": "https://raw.githubusercontent.com/thaiduis/music/main/Xuanthi.mp4",
+    "image": "https://i.ytimg.com/vi/3s1r_g_jXNs/maxresdefault.jpg",
+    "artist": "Phan Mạnh Quỳnh"
   }
 ]
